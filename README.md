@@ -16,6 +16,9 @@ There is one user account:
 
 *  `vagrant` with password `vagrant`, enabled for SSH
 
+## How to build
+
+For information how to build this image see [wiki](https://gitlab.ics.muni.cz/muni-kypo-images/muni-kypo-images-wiki/-/wikis/How-to-build-an-image-locally).
 
 ## Known issues and requested features
 
